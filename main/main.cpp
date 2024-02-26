@@ -1,3 +1,5 @@
+////LAB 1
+
 #include<iostream>
 #include<iomanip>
 #include<random>
